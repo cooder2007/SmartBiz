@@ -1,0 +1,57 @@
+# Monday–Friday
+
+Morning
+Workout + breakfast
+
+9–5
+College
+
+5–5:30
+Rest
+
+5:30–7
+College review
+
+7–9
+Dinner + online class
+
+9–9:30
+Light coding / Leetcode
+
+10
+Sleep
+
+
+
+#  Saturday
+
+Morning
+College
+
+Afternoon
+Weekly revision
+
+Evening
+Leetcode + Git project planning
+
+
+
+#  Sunday
+
+Morning ( 9 to 12:30)
+Deep project work
+ 
+Afternoon (2-6)
+Exam preparation
+
+Evening 
+Relax / recharge
+
+Night
+What did I learn this week?
+What coding problems were difficult?
+What will I improve next week?
+
+
+Night: 7 to 9( dinner + extra online class +)
+Sleep: lights out at 10 p.m.
