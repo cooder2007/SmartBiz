@@ -1,16 +1,66 @@
-# React + Vite
+🚀 React + Vite Starter
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A minimal and fast setup to build React apps using Vite, with Hot Module Replacement (HMR) and basic ESLint configuration.
 
-Currently, two official plugins are available:
+📦 Features
+⚡ Lightning-fast development with Vite
+🔥 Hot Module Replacement (HMR)
+🧹 Pre-configured ESLint rules
+⚛️ React support out of the box
+🔌 Available Plugins
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+You can use either of the official React plugins:
 
-## React Compiler
+@vitejs/plugin-react
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Uses Oxc for fast transformations
+@vitejs/plugin-react-swc
 
-## Expanding the ESLint configuration
+Uses SWC for even faster builds
+⚙️ React Compiler
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+The React Compiler is not enabled by default due to its impact on development and build performance.
+
+👉 To enable it, follow the official guide:
+https://react.dev/learn/react-compiler/installation
+
+🧠 ESLint & TypeScript (Recommended)
+
+For production-ready apps, it’s recommended to:
+
+Use TypeScript
+Enable type-aware linting
+
+👉 Check the official template:
+https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts
+
+▶️ Getting Started
+
+Follow these steps to run the project locally:
+
+# 1. Open terminal / command prompt
+
+# 2. Navigate to project folder
+cd SmartBiz
+
+# 3. Install dependencies
+npm install
+
+# 4. Start development server
+npm run dev
+📁 Project Structure (Basic)
+SmartBiz/
+├── src/
+├── public/
+├── package.json
+├── vite.config.js
+└── README.md
+🛠️ Scripts
+Command	Description
+npm install	Install dependencies
+npm run dev	Start development server
+npm run build	Build for production
+npm run preview	Preview production build
+💡 Notes
+Make sure Node.js is installed (recommended: latest LTS)
+If you face issues, try deleting node_modules and reinstalling
